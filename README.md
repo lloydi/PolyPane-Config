@@ -6,4 +6,4 @@ Included here are:
 * **Light, dark & High Contrast Modes** - Just these three modes for easier comparison of color and contrast issues.
 * **Resize and Reflow Checks** - Just two panes to assess text resize and reflow issues.
 * **Text Spacing** - 4 panes set for mobile, tablet, laptop and large desktop with text spacing settings applied (to test SC 1.4.12 Text Spacing).
-* **Text Spacing** - 4 panes set for mobile, tablet, laptop and large desktop with text spacing settings applied (to test SC 1.4.12 Text Spacing).
+* **Color Blindness Simulations** - Side-by-side views showing the color blindness simulations for Deuteranomaly, Deuteranomia, Protanomaly, Protanopia, Tritanomaly, Tritanopia, Achromatomaly, Achromatopsia, and Achromatopsia (Cerebral).
