@@ -14,3 +14,19 @@ Included here are:
 2. <img width="395" alt="Select 'Workspace' then 'Custom'" src="https://github.com/lloydi/PolyPane-Config/assets/2778763/40da0bb4-f2ca-4ac1-b597-24339ac3c560">
 3. <img width="380" alt="Select the 'More options' button" src="https://github.com/lloydi/PolyPane-Config/assets/2778763/12828b05-fd75-473e-a309-04c6ea8985f8">
 4. <img width="399" alt="Select 'Import' and choose the .ppws files" src="https://github.com/lloydi/PolyPane-Config/assets/2778763/80e075c5-986d-4051-bf2a-33cda96e3544">
+
+## Important note re Text Sizing
+
+The panes in the 'Resize and Reflow Checks' collection have been set such that they do not respond to font size adjustments, apart from the Text Sizing one. The chances are, you will have your font size set to 100%. 
+
+<img src="resize-err-1.png" alt="">
+<img src="resize-err-2.png" alt="The 200% setting shown on the pane is for scaling the pane, not the font size">
+
+You will need to boost that up to 200%. Here's how you do it:
+
+<img src="resize-err-3.png" alt="Change the text size by using View > Zoom Web Pages">
+
+Note the difference between the two middle panes here (the second one is correct):
+
+<img src="resize-err-4.png" alt="">
+<img src="resize-err-5.png" alt="">
