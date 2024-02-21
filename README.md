@@ -19,14 +19,18 @@ Included here are:
 
 The panes in the 'Resize and Reflow Checks' collection have been set such that they do not respond to font size adjustments, apart from the Text Sizing one. The chances are, you will have your font size set to 100%. 
 
-<img src="resize-err-1.png" alt="">
-<img src="resize-err-2.png" alt="The 200% setting shown on the pane is for scaling the pane, not the font size">
+![](https://github.com/lloydi/PolyPane-Config/assets/2778763/c9f06c03-97f9-4326-8605-53d13a0deca6)
+![The 200% setting shown on the pane is for scaling the pane, not the font size](https://github.com/lloydi/PolyPane-Config/assets/2778763/c658cc13-773b-48ec-bf51-10caa19d5253)
 
 You will need to boost that up to 200%. Here's how you do it:
 
-<img src="resize-err-3.png" alt="Change the text size by using View > Zoom Web Pages">
+![Change the text size by using View > Zoom Web Pages](https://github.com/lloydi/PolyPane-Config/assets/2778763/1aed14d7-5979-4643-9507-af77f919a6d5)
 
 Note the difference between the two middle panes here (the second one is correct):
 
-<img src="resize-err-4.png" alt="">
-<img src="resize-err-5.png" alt="">
+![](https://github.com/lloydi/PolyPane-Config/assets/2778763/1ba763e9-737b-420c-a245-aa9d9bc3d622)
+![](https://github.com/lloydi/PolyPane-Config/assets/2778763/9c8d0b63-7929-4f28-810a-9480d9bf23b2)
+
+
+
+
